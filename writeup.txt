@@ -1,5 +1,0 @@
-Logistical regression gives a basic yes/no result
-
-Random forrest classifier can run through more scenarios to give a more classifies result.
-
-Credit risk is determined by many factors and scenarios so my prediction is that the random forrest classifier will give a better result
